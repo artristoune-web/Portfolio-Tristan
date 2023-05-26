@@ -1,11 +1,10 @@
-Hi 👋 My name is Tristan BOSSARD
+Hi 👋 My name is Tristan
 ================================
 
 Web Developer and Web Design
 ----------------------------
 
 *   🌍  I'm based in Cholet, France
-*   ✉️  You can contact me at [creation\_tristoune\_1@outlook.fr](mailto:creation_tristoune_1@outlook.fr)
 *   🧠  I'm learning Vue.js, HTML, CSS, PHP and Node.js and all techno for the project
 *   🤝  I'm open to collaborating on an application that improves everyday life
 *   ⚡  I'm a huge F1 fan.### Skills<p align="left">
